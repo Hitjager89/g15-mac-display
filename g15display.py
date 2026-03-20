@@ -8,7 +8,7 @@ VENDOR   = 0x046d
 LCD_PID  = 0xc227
 WIDTH    = 160
 HEIGHT   = 43
-USER_NAME = "Matthias"
+USER_NAME = "User Name"
 
 def render_to_buffer(img):
     pixels = img.load()
